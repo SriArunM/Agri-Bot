@@ -19,7 +19,7 @@ certifi==2024.7.4
 cffi==1.17.0
 chardet==5.2.0
 charset-normalizer==3.3.2
-chroma-hnswlib==0.7.6
+chroma-hnswlib
 chromadb==0.3.29
 click==8.1.7
 cohere==5.8.1
