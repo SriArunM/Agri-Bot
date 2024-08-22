@@ -3,6 +3,7 @@
 import nltk
 nltk.download("punkt")
 nltk.download("punkt_tab")
+nltk.download("averaged_perceptron_tagger_eng")
 nltk.download("averaged_perceptron_tagger")
 import os
 import streamlit as st
