@@ -1,8 +1,8 @@
 # Import Required Libraries
 # import langdetect
-# import nltk
+import nltk
 
-# nltk.download("averaged_perceptron_tagger")
+nltk.download("averaged_perceptron_tagger")
 import os
 import streamlit as st
 from streamlit_chat import message
